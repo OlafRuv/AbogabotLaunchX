@@ -17,13 +17,12 @@ En la primer semana se trabajo a partir del caso de desarrollo de la aplicación
 
 
 ## Practicas 
-- **Haz click para Descargar**
 
-	- [Toma de requerimientos](./Requerimientos.pdf)
-    - [Crea tu buyer persona](./BuyerPersonaAbogabot.pdf)
-	- [Publico objetivo](./PublicoObjetivo.pdf)
-	- [Crea tu primer Wireframe UX](./WireframeAbogabot.pdf)
-	- [Ahora el UI](./UI.pdf)
+- [Toma de Requerimientos](./Requerimientos.pdf)
+- [Buyer Persona](./BuyerPersonaAbogabot.pdf)
+- [Publico Objetivo](./PublicoObjetivo.pdf)
+- [Wireframe UX](./WireframeAbogabot.pdf)
+- [Wireframe UI](./UI.pdf)
 
 
 ***¡Hasta el espacio y más allá! 🚀***
